@@ -13,7 +13,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauteros974_icons=true&theme=radical)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cauteros974&theme=solarized_dark)
