@@ -13,7 +13,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-![Anurag's GitHub stats](https://camo.githubusercontent.com/06540a86ec279d49c389ab8bd22e0542c7590e07d63b815baaf6007ef0af2c21/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b6f6e646572732673686f775f69636f6e733d74727565267468656d653d6e6f726426636f756e745f707269766174653d74727565)
+![Anurag's GitHub stats](https://camo.githubusercontent.com/Cauteros974)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cauteros974&theme=solarized_dark)
