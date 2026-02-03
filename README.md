@@ -16,7 +16,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauteros974&show_icons=true&theme=radical)
 
 
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Cauteros974&theme=dark)
+![Top Languages](https://YOUR-VERCEL-URL/api/top-langs/?username=Cauteros974-690&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cauteros974&theme=solarized_dark)
