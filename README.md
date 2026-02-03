@@ -17,8 +17,8 @@
 
 <!-- Statistics: Programming languages -->
 <picture>
-  <source srcset="https://raw.githubusercontent.com/Cauteros974/repository_name/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/Cauteros974/repository_name/main/output/stats_langs.svg">
+  <source srcset="https://raw.githubusercontent.com/Cauteros974/cyber-guard/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/Cauteros974/cyber-guard/main/output/stats_langs.svg">
 </picture>
 
 
