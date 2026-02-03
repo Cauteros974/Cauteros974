@@ -16,4 +16,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauteros974&show_icons=true&theme=radical)
 
 
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Cauteros974&theme=dark)
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cauteros974&theme=solarized_dark)
