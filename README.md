@@ -15,6 +15,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauteros974&show_icons=true&theme=radical)
 
+<!-- Statistics: Programming languages -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Cauteros974/repository_name/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/Cauteros974/repository_name/main/output/stats_langs.svg">
+</picture>
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cauteros974&theme=solarized_dark)
