@@ -15,18 +15,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauteros974&show_icons=true&theme=radical)
 
-<!-- Statistics: Programming languages -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/Cauteros974/cyber-guard/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/Cauteros974/cyber-guard/main/output/stats_langs.svg">
-</picture>
-
-<!-- Statistics: Commit series -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/Cauteros974/cyber-guard/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/Cauteros974/cyber-guard/main/output/stats_commits.svg">
-</picture>
-
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cauteros974&theme=solarized_dark)
